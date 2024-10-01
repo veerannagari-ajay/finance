@@ -3,10 +3,10 @@
 import React from 'react';
 
 const financeInfo = [
-  { id: 1, title: 'Taking Loans', description: 'Don&apos;t take loans with high interest' },
-  { id: 2, title: 'Buying things', description: 'Don&apos;t buy luxury things with EMI&apos;s' },
-  { id: 3, title: 'Don&apos;t do trading', description: 'If you don&apos;t know about trading don&apos;t do it.' },
-  { id: 4, title: 'Don&apos;t put all eggs in one basket', description: 'Like investing all your savings in one thing may cause risk' },
+  { id: 1, title: 'Taking Loans', description: "Don't take loans with high interest" },
+  { id: 2, title: 'Buying things', description: "Don't buy luxury things with EMI's" },
+  { id: 3, title: "Don't do trading", description: "If you don't know about trading, don't do it." },
+  { id: 4, title: "Don't put all eggs in one basket", description: "Like investing all your savings in one thing may cause risk" },
 ];
 
 const Spincard: React.FC = () => { 
